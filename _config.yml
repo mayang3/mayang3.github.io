@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "Neo82's blog"
+title                    : "neo82's blog"
 title_separator          : "-"
 name                     : "Neo82"
 description              : "developer"
