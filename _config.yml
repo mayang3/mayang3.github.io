@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
-title                    : "baejunbeom's blog"
+title                    : "Neo82's blog"
 title_separator          : "-"
-name                     : "baejunbeom's blog"
-description              : "developer blog"
+name                     : "Neo82"
+description              : "developer"
 url                      : "https://mayang3.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mayang3/mayang3.github.io"
