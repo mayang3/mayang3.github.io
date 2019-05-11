@@ -33,6 +33,8 @@ categories:
 
 ## Source Code
 
+위 알고리즘을 구현하기 위해 Red-Black Tree 구현체인 TreeMap 을 사용하였습니다.
+
 ``` java
 
 import java.util.Map;
