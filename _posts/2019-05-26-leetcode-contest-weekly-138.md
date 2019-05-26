@@ -23,7 +23,7 @@ categories:
 
 나름 이런 contest 를 하는 것도 재미있네..
  
-틈틈히 참가해야곘다.
+틈틈히 참가해야겠다 :)
 
 ![contest-ranking]({{ site.url }}{{ site.baseurl }}/assets/images/leetcode_contest_138.jpg)
 
