@@ -3,11 +3,11 @@ title: "Boolean Logic (불 논리)"
 tag:
 - boolean logic
 - hardware
-- computerScience
+- computer science
 - nand2tetris
 - MIT
 categories:
-- computerScience
+- computer science
 ---
 
 ## Boolean Algebra (불 대수)
@@ -23,7 +23,7 @@ Boolean Algebra 는 true/false, 1/0, 예/아니오, on/off 같은 bool 값 (2진
 
 예를 들어, 입력값 x=0, y=1, z=0 에 대해 이 표현식을 계산해보면,
 
-y 는 1이므로 x+y=1 이고, $1*\neg0 = 1*1 = 1$ 이 된다.
+y 는 1이므로 x+y=1 이고, $1 * \neg 0 = 1*1 = 1$ 이 된다.
 
 8개의 가능한 입력값 조합에 대해 표현식을 다 계산해보면 표의 맨 오른쪽 열에 해당하는 값을 얻을 수 있으므로, 
 
