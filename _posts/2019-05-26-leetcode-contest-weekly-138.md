@@ -3,9 +3,9 @@ title: "[leetcode][contest 138] leetcode 주간 알고리즘 대회"
 tag:
 - leetcode
 - algorithm
-- problemSolving
+- problem solving
 categories:
-- problemSolving
+- problem solving
 ---
 
 ## Contest

@@ -3,9 +3,9 @@ title: "[codeforce][round 555] Minimum Array"
 tag:
 - codeforce
 - algorithm
-- problemSolving
+- problem solving
 categories:
-- problemSolving
+- problem solving
 ---
 
 ## Algorithm
