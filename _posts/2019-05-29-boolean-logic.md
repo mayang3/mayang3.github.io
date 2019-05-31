@@ -1,5 +1,5 @@
 ---
-title: "Boolean Logic (불 논리)"
+title: "Boolean Logic (불 논리)-1"
 tag:
 - boolean logic
 - hardware
