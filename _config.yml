@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "baejunbeom"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Developer"
-  location         : "South Korea"
+  bio              : "web developer, backend, java"
+  location         : "Pangyo, Replic of Korea"
   email            :
   links:
     - label: "Email"
